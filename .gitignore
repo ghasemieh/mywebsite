@@ -1,5 +1,11 @@
-# Mac OS stuff #
-################
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+# Mac OS
 *.DS_Store
 *.DS_Store?
 .AppleDouble
@@ -9,7 +15,3 @@ Icon
 
 # Thumbnails
 ._*
-
-#   JetBrains  #
-################
-.idea
